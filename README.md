@@ -65,12 +65,27 @@ fun_fact: "I turn coffee, Figma files, and Photoshop layers into finished produc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mtalhacdx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Talha's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhacdx&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+![Profile Views](https://komarev.com/ghpvc/?username=mtalhacdx&color=2a5298&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/mtalhacdx?style=for-the-badge&color=2a5298&labelColor=1e3c72)
 
-<br/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mtalhacdx&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2a5298&labelColor=1e3c72)
+![Top Language](https://img.shields.io/github/languages/top/mtalhacdx/Talha?style=for-the-badge&color=2a5298&labelColor=1e3c72)
 
-<img src="https://streak-stats.demolab.com/?user=mtalhacdx&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+<!--
+  Want the full colorful stats cards (commits, streak, top languages chart) back?
+  The public github-readme-stats.vercel.app service is currently overloaded and
+  frequently returns broken images — this affects everyone, not just this profile.
+  Fix: deploy your own free copy in ~5 minutes:
+  1. Go to https://github.com/anuraghazra/github-readme-stats
+  2. Click "Deploy to Vercel" in the README
+  3. Sign in with GitHub, deploy (no config needed)
+  4. Copy your new *.vercel.app URL and swap it in place of github-readme-stats.vercel.app below:
+
+  <img src="https://YOUR-OWN-INSTANCE.vercel.app/api?username=mtalhacdx&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://YOUR-OWN-INSTANCE.vercel.app/api/top-langs/?username=mtalhacdx&layout=compact&theme=tokyonight&hide_border=true" />
+
+  This gives you a dedicated instance that isn't shared with thousands of other profiles, so it won't randomly break.
+-->
 
 </div>
 
@@ -97,9 +112,7 @@ I also work as a **freelance graphic designer**, helping brands and businesses w
 
 <div align="center">
 
-<a href="https://github.com/mtalhacdx" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhacdx&repo=Talha&theme=tokyonight&hide_border=true" />
-</a>
+[![Portfolio Repo](https://img.shields.io/badge/📌_View_Portfolio_Repo-2a5298?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mtalhacdx/Talha)
 
 </div>
 
