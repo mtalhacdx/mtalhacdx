@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg?v=animated" width="100%" alt="Muhammad Talha — Frontend Developer and Graphic Designer. Thoughtful interfaces and clear visual identities." />
+  <img src="https://raw.githubusercontent.com/mtalhacdx/mtalhacdx/745c9b1ef90d406890baa7fe05f8f1cd095fd44d/assets/profile-banner.svg" width="100%" alt="Muhammad Talha — Frontend Developer and Graphic Designer. Thoughtful interfaces and clear visual identities." />
 </p>
 
 <p align="center">
