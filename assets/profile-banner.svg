@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Talha — Frontend Developer and Graphic Designer</title>
+<desc id="desc">A dark navy banner with mint and lavender geometric artwork representing the meeting of code and design.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#162536"/></linearGradient>
+<linearGradient id="orb" x2="1" y2="1"><stop stop-color="#83f5d0"/><stop offset="1" stop-color="#a99afa"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#86a2b9" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1280" height="380" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="380" rx="20" fill="url(#grid)"/>
+<path d="M52 62H112" stroke="#83f5d0" stroke-width="4" stroke-linecap="round"/>
+<text x="52" y="98" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#83f5d0">DEVELOPMENT + DESIGN</text>
+<text x="48" y="176" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f2f6fb">Muhammad Talha</text>
+<text x="52" y="223" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#c5d1df">Frontend Developer · Graphic Designer</text>
+<text x="52" y="275" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#93a8be">Thoughtful interfaces. Clear visual identities.</text>
+<text x="52" y="335" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2" fill="#8197ad">REACT / NEXT.JS / JAVASCRIPT / BRANDING</text>
+<g transform="translate(990 185)">
+<circle r="132" fill="none" stroke="#94afc7" stroke-opacity=".15"/>
+<circle r="102" fill="none" stroke="#94afc7" stroke-opacity=".16" stroke-dasharray="3 10"/>
+<rect x="-76" y="-76" width="152" height="152" rx="30" transform="rotate(-14)" fill="url(#orb)" fill-opacity=".07" stroke="#a99afa" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="70" fill="url(#orb)" fill-opacity=".09" stroke="#83f5d0" stroke-width="1.5"/>
+<path d="M-32-22L-56 0L-32 22M32-22L56 0L32 22M14-34L-14 34" fill="none" stroke="url(#orb)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="105" cy="-80" r="10" fill="#83f5d0"/>
+<circle cx="-108" cy="75" r="6" fill="#a99afa"/>
+<path d="M78 90H118M98 70V110" stroke="#a99afa" stroke-width="2"/>
+<circle cx="-115" cy="-54" r="4" fill="#83f5d0"/>
+</g>
+<text x="990" y="350" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="4" fill="#a5b8cc">CODE MEETS CREATIVITY</text>
+</svg>
